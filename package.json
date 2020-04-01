@@ -2,7 +2,7 @@
   "name": "project",
   "version": "1.0.0",
   "description": "This is a website of a Fictional food site",
-  "main": "SisterFoods.html",
+  "main": "index.html",
   "scripts": {
     "lite": "lite-server",
     "start": "npm run lite",
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/rdeleon2/Dulaycious.git"
   },
-  "author": "",
+  "author": "RDeleon",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rdeleon2/Dulaycious/issues"
