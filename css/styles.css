@@ -1,0 +1,36 @@
+header{
+    color: #CEC8FF;
+}
+.navbar {
+    margin: 0;
+    background-image: linear-gradient(to right, rgb(241, 192, 101), rgb(206, 198, 89), rgb(173, 64, 45));
+    color: rgb(245, 14, 14);    
+}
+
+.jumbotron {
+    margin: 0;
+    padding-top: 20px;
+    background-image: linear-gradient(to right, rgb(241, 192, 101), rgb(206, 198, 89), rgb(173, 64, 45));
+    color: rgb(245, 14, 14);
+}
+
+.container{
+    position: relative;
+    text-align: center;
+}
+#imgTransparency{
+    opacity: .5;
+    position: absolute;
+    top: auto;
+    left: auto;
+}
+
+.backSplash{
+    background-image: url("FrenchToast BurgerCutInHalf.JPEG");
+    width: 100%;
+    background-color: #cccccc;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
