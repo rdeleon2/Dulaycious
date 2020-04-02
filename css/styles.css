@@ -1,36 +1,30 @@
-header{
-    color: #CEC8FF;
-}
+header {
+  color: #CEC8FF; }
+
 .navbar {
-    margin: 0;
-    background-image: linear-gradient(to right, rgb(241, 192, 101), rgb(206, 198, 89), rgb(173, 64, 45));
-    color: rgb(245, 14, 14);    
-}
+  margin: 0;
+  background-image: linear-gradient(to right, #f1c065, #cec659, #f1c065);
+  color: #f50e0e; }
 
 .jumbotron {
-    margin: 0;
-    padding-top: 20px;
-    background-image: linear-gradient(to right, rgb(241, 192, 101), rgb(206, 198, 89), rgb(173, 64, 45));
-    color: rgb(245, 14, 14);
-}
+  margin: 0;
+  padding-top: 20px;
+  background-image: linear-gradient(to right, #f1c065, #cec659, #f1c065);
+  color: #f50e0e; }
 
-.container{
-    position: relative;
-    text-align: center;
-}
-#imgTransparency{
-    opacity: .5;
-    position: absolute;
-    top: auto;
-    left: auto;
-}
+.container {
+  position: relative;
+  text-align: center; }
 
-.backSplash{
-    background-image: url("FrenchToast BurgerCutInHalf.JPEG");
-    width: 100%;
-    background-color: #cccccc;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+#imgTransparency {
+  opacity: .5;
+  position: absolute;
+  top: auto;
+  left: auto; }
 
+.backSplash {
+  width: 100%;
+  background-color: #cccccc;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
