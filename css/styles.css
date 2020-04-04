@@ -19,7 +19,9 @@ header {
 #imgTransparency {
   opacity: .5;
   top: auto;
-  left: auto; }
+  left: auto;
+  width: 100%;
+ }
 
 .backSplash {
   width: 100%;
@@ -32,7 +34,7 @@ header {
     background-image: linear-gradient(to bottom, #f1c065, #cec659, #f1c065);
   }
 #imgSize{
-  height: 20rem;
+  height: 18rem;
   width: auto;
   margin: 0;
   padding-left: 0em;
@@ -44,4 +46,61 @@ header {
 }
 .row-color{
   background-color: lemonchiffon;
+}
+
+.row-title-color{
+  background-color: lightcoral;
+}
+
+.h2-title{
+  font-family: 'comic neue', cursive;
+}
+
+.h1-title{
+  font-family: 'oswald', sans-serif;
+
+
+}
+
+.h3-title{
+  font-family: 'Pacifico', cursive;
+}
+
+.list-unlisted{
+  list-style: none;
+  color: tan;
+}
+
+.imgbackSplash {
+position: absolute;
+opacity: .5;
+top: auto;
+left: auto;
+height: 43rem;
+width: 100%;
+}
+
+.unlisted{
+  list-style: none;
+}
+
+.spacingTop{
+  padding-top: 5rem;
+}
+
+.spacingBottom{
+  padding-bottom: 5rem;
+}
+
+.imgbackSplash-Title {
+  position: absolute;
+  opacity: .5;
+  top: auto;
+  left: auto;
+  height: 50rem;
+  width: 100%;
+}
+
+p{
+  font-size: 20px;
 }
